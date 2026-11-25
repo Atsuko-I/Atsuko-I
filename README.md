@@ -1,6 +1,6 @@
 ##### Hi there 👋
 
-![Hi !](atsuko-i.png)
+![Hi !](atsuko-id-w.png)
 
 <!--
 **Atsuko-I/Atsuko-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
